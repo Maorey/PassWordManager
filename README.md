@@ -13,18 +13,18 @@
 
 ###快捷键说明：
 
-最小化：Esc 或 Ctrl+M
-退出：Alt+F4
-打开/创建文件：F1 或 Ctrl+O
-导出/合并结果：F2 或 Ctrl+E
-搜索：F3 或 Ctrl+F
-查询：F4 或 Enter
-刷新：F5 或 Ctrl+R
-添加项：小键盘+号键 或 Alt + A
-上一页：←（Window获得焦点时） 或 Alt+←
-下一页：→（Window获得焦点时） 或 Alt+→
-首页：Home 或 Alt+↑
-尾页：End 或 Alt+↓
+1. 最小化：Esc 或 Ctrl+M
+2. 退出：Alt+F4
+3. 打开/创建文件：F1 或 Ctrl+O
+4. 导出/合并结果：F2 或 Ctrl+E
+5. 搜索：F3 或 Ctrl+F
+6. 查询：F4 或 Enter
+7. 刷新：F5 或 Ctrl+R
+8. 添加项：小键盘+号键 或 Alt + A
+9. 上一页：←（Window获得焦点时） 或 Alt+←
+10.下一页：→（Window获得焦点时） 或 Alt+→
+11.首页：Home 或 Alt+↑
+12.尾页：End 或 Alt+↓
 
 ## 日志：
 ### v1.2_2
