@@ -12,18 +12,19 @@
 8. 点击导出按钮（**->**）将当前查询结果导出、合并到另一密码文件，可用移除按钮移除不想导出的，移除不修改密码文件，可用**刷新**（或查询）重新显示
 
 ###快捷键说明：
-    最小化：Esc 或 Ctrl+M
-    退出：Alt+F4
-    打开/创建文件：F1 或 Ctrl+O
-    导出/合并结果：F2 或 Ctrl+E
-    搜索：F3 或 Ctrl+F
-    查询：F4 或 Enter
-    刷新：F5 或 Ctrl+R
-    添加项：小键盘+号键 或 Alt + A
-    上一页：←（Window获得焦点时） 或 Alt+←
-    下一页：→（Window获得焦点时） 或 Alt+→
-    首页：Home 或 Alt+↑
-    尾页：End 或 Alt+↓
+
+最小化：Esc 或 Ctrl+M
+退出：Alt+F4
+打开/创建文件：F1 或 Ctrl+O
+导出/合并结果：F2 或 Ctrl+E
+搜索：F3 或 Ctrl+F
+查询：F4 或 Enter
+刷新：F5 或 Ctrl+R
+添加项：小键盘+号键 或 Alt + A
+上一页：←（Window获得焦点时） 或 Alt+←
+下一页：→（Window获得焦点时） 或 Alt+→
+首页：Home 或 Alt+↑
+尾页：End 或 Alt+↓
 
 ## 日志：
 ### v1.2_2
